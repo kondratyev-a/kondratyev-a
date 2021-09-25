@@ -6,7 +6,7 @@ I improve my Java skills every day by passing courses and working on my pet proj
 ## My skills
 - Java SE 8/11, OOP and SOLID Principles, Design Patterns
 - Spring Framework, Spring Boot, Spring Data, Spring Security, Hibernate
-- SQL, Maven, Gradle, JUnit, Mockito, Jackson, REST API, Fiegn, Regex, Lombok
+- SQL, Maven, Gradle, JUnit, Mockito, Jackson, REST API, Feign, Regex, Lombok, MapStruct
 - Git, Docker, CI/CD, Jira, Gitlab, CircleCI, Heroku, IntelliJ IDEA, Postman
 - Thymeleaf, Basics of HTML, CSS, JavaScript, Bootstrap
 - Strong business analysis skills, expertise in a variety of subject areas
