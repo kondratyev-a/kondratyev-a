@@ -1,5 +1,5 @@
 # About me
-I graduated as Software Engineer and worked for over 10 years in software development. I used the 1C programming language widespread in Russia to develop business-oriented applications. I became a Senior Software Engineer, even worked as CTO. I received vast programming experience, excellent skills in decomposing tasks, and knowledge of different software development methodologies. But after so many years I decided to change my stack to Java. And now, despite of my experience,  I'm a Junior Java Developer.
+I graduated as Software Engineer and worked for over 10 years in software development. I used the 1C programming language widespread in Russia to develop business-oriented applications. I became a Senior Software Engineer, even worked as CTO. I received vast programming experience, excellent skills in decomposing tasks, and knowledge of different software development methodologies. But after so many years I decided to change my stack to Java. And now I'm a Java Developer.
 
 I improve my Java skills every day by passing courses and working on my pet projects. Hope you will find something useful here.
 
